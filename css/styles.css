@@ -92,7 +92,7 @@
 }
 
 .button:hover,
-:focus {
+.button:focus {
   background-color: #404bbf;
   cursor: pointer;
 }
@@ -167,7 +167,7 @@
   background-color: #f4f4fd;
 }
 .buttons:hover,
-:focus {
+.buttons:focus {
   color: #ffffff;
   background-color: #404bbf;
   cursor: pointer;

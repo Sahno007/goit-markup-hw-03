@@ -147,7 +147,6 @@ img {
   gap: 24px;
 }
 .first-tech {
-  flex-basis: calc((100% - 3 * 24px) / 4
 }
 .features.point {
   margin-bottom: 8px;

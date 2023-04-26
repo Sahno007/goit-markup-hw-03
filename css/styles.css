@@ -26,7 +26,12 @@ img {
 .page-header {
   border-bottom: 1px solid #e7e9fc;
 }
-/* nav */
+/* Navigation */
+
+.nav {
+  display: flex;
+}
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;

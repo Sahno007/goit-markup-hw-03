@@ -10,6 +10,9 @@
   --paragraph-color: #434455;
 }
 
+img {
+  display: block;
+}
 /* Body */
 
 .body {

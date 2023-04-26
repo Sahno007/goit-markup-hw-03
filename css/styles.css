@@ -72,11 +72,11 @@ img {
   text-decoration: none;
   display: flex;
   gap: 40px;
-}
-.menu.link {
-  display: flex;
   padding-top: 24px;
   padding-bottom: 24px;
+}
+.menu > .link {
+  display: flex;
 }
 /* Address */
 .address {

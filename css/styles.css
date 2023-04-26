@@ -30,8 +30,6 @@ img {
 
 .nav {
   display: flex;
-}
-.nav > .container {
   width: 1158px;
 }
 

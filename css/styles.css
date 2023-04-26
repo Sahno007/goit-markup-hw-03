@@ -142,14 +142,14 @@ img {
   padding-top: 120px;
   padding-bottom: 120px;
 }
-.list > .tech {
+.list.tech {
   display: flex;
   gap: 24px;
 }
 .first-tech {
   width: calc((100% - 72px) / 4);
 }
-.features > .point {
+.features.point {
   margin-bottom: 8px;
 }
 

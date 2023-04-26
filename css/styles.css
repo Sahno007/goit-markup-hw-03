@@ -183,9 +183,6 @@ img {
 .list.works {
   gap: 24px;
 }
-.examples {
-  width: calc((100% - 48px) / 3);
-}
 
 /* Section 4 */
 

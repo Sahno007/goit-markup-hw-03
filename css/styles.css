@@ -29,8 +29,16 @@ img {
 /* Navigation */
 
 .nav {
+  margin: 0;
+  padding-left: 15px;
+  padding-right: 15px;
   display: flex;
   width: 1158px;
+}
+
+.nav-logo {
+  display: flex;
+  align-items: center;
 }
 
 .logo {
@@ -42,6 +50,7 @@ img {
   text-transform: uppercase;
   color: var(--logo-button-color);
   text-decoration: none;
+  margin-right: 76px;
 }
 
 .log {
@@ -50,6 +59,7 @@ img {
 
 .list {
   list-style: none;
+  gap: 40px;
 }
 
 .menu {
@@ -58,6 +68,11 @@ img {
   letter-spacing: 0.02em;
   color: var(--main-text-color);
   text-decoration: none;
+  display: flex;
+  gap: 40px;
+}
+.menu > .link {
+  display: flex;
 }
 
 /* Address */

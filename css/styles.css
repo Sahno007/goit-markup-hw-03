@@ -34,6 +34,7 @@ img {
   padding-right: 15px;
   display: flex;
   width: 1158px;
+  margin: 0 auto;
 }
 
 .nav-logo {
@@ -60,6 +61,7 @@ img {
 .list {
   list-style: none;
   gap: 40px;
+  display: flex;
 }
 
 .menu {
@@ -73,6 +75,8 @@ img {
 }
 .menu > .link {
   display: flex;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 /* Address */

@@ -155,6 +155,10 @@ img {
   gap: 24px;
 }
 
+.first-tech {
+  width: calc((100% - 72px) / 4);
+}
+
 .features.point {
   margin-bottom: 8px;
 }

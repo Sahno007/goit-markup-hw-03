@@ -25,6 +25,7 @@ img {
 
 .page-header {
   border-bottom: 1px solid #e7e9fc;
+  display: flex;
 }
 /* Navigation */
 
@@ -79,8 +80,13 @@ img {
   display: flex;
 }
 /* Address */
+
 .address {
   font-style: normal;
+  margin-left: auto;
+}
+.list > .link {
+  display: flex;
 }
 .info {
   line-height: 1.5;

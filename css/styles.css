@@ -13,6 +13,7 @@
 img {
   display: block;
 }
+
 /* Body */
 
 .body {
@@ -333,4 +334,9 @@ img {
   letter-spacing: 0.02em;
   color: var(--main-text-color);
   margin-bottom: 8px;
+}
+
+.container .aplication {
+  display: flex;
+  width: calc((100% - 48px) / 3);
 }

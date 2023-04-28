@@ -89,8 +89,6 @@ p {
   color: var(--main-text-color);
   text-decoration: none;
   gap: 40px;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .numbers {

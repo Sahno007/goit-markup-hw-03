@@ -46,6 +46,8 @@ p {
 
 .header-container {
   display: flex;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .nav-logo {

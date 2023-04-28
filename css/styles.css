@@ -69,6 +69,7 @@ img {
 .list {
   list-style: none;
   gap: 40px;
+  padding: 0;
 }
 
 .menu {

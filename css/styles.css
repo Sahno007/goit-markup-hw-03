@@ -283,6 +283,7 @@ img {
   justify-content: center;
   gap: 24px;
   margin-bottom: 72px;
+  display: flex;
 }
 
 .buttons {

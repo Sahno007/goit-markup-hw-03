@@ -76,8 +76,8 @@ p {
 .list {
   list-style: none;
   gap: 40px;
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 
 .menu {

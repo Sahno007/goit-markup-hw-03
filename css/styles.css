@@ -37,15 +37,13 @@ img {
 
 /* Navigation */
 
-.nav {
-  width: 1158px;
-  margin: 0 auto;
+.header-container {
   display: flex;
 }
 
 .nav-logo {
-  display: flex;
   align-items: center;
+  display: flex;
 }
 
 .logo {
@@ -67,7 +65,6 @@ img {
 .list {
   list-style: none;
   gap: 40px;
-  display: flex;
 }
 
 .menu {
@@ -76,7 +73,6 @@ img {
   letter-spacing: 0.02em;
   color: var(--main-text-color);
   text-decoration: none;
-  display: flex;
   gap: 40px;
   padding-top: 24px;
   padding-bottom: 24px;

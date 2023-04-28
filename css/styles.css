@@ -58,6 +58,10 @@ img {
   margin-right: 76px;
 }
 
+.list-menu {
+  display: flex;
+}
+
 .log {
   color: var(--main-text-color);
 }
@@ -76,6 +80,10 @@ img {
   gap: 40px;
   padding-top: 24px;
   padding-bottom: 24px;
+}
+
+.numbers {
+  display: flex;
 }
 
 /* Address */

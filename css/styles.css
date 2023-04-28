@@ -125,6 +125,7 @@ img {
   color: #ffffff;
   max-width: 496px;
   margin: auto;
+  margin-bottom: 48px;
 }
 
 .button {
@@ -200,6 +201,7 @@ img {
 }
 .list.works {
   gap: 24px;
+  display: flex;
 }
 
 /* Section 4 */
@@ -221,6 +223,7 @@ img {
 }
 .list.workers {
   gap: 24px;
+  display: flex;
 }
 
 .image {

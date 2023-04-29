@@ -281,6 +281,8 @@ p {
 .solution {
   color: #f4f4fd;
   width: 264px;
+  display: flex;
+  line-height: 24px;
 }
 
 /* PORTFOLIO */
